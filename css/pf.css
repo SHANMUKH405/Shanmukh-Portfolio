@@ -309,17 +309,17 @@ footer p:nth-child(2){
 }
 
 
-@media(max-width:780px){
+@media(max-width:800px){
 	ul {
-		display: none;
+		display:none;
 	}
 
 	h1{
-		font-size: 20px;
+		font-size: 25px;
 	}
 
 	.wrapper ul li{
-		font-size: 35px;
+		font-size: 30px;
 	
 	}
 
